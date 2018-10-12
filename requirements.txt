@@ -1,0 +1,5 @@
+django==2.0.2
+psycopg2==2.7.4
+django-shell-plus
+google-cloud
+dialogflow
